@@ -1,1 +1,42 @@
-/* completa */
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+section.statistics header h3{
+    color: red;
+}
+h1:hover{
+    color: rgb(255, 0, 0);
+}
+.fancy{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-style: italic;
+    color: darkblue;
+}
+h3{
+    font-style: italic;
+}
+header p{
+    font-family: 'Courier New', Courier, monospace;
+}
+header.fancy{
+    color: magenta;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+p.important{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: aqua;
+}
+img{
+    float: left;
+    padding: 0 0 0 10px;
+}
